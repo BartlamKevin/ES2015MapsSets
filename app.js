@@ -77,14 +77,3 @@ function vowelCount(str){
     }
     return vowelMap;
 }
-
-//  let charLowerCase  = char.toLowerCase();
-//         if (vowelKey.indexOf(charLowerCase) !== -1){
-//             if(emptyObj[charLowerCase]){
-//                 emptyObj[charLowerCase]++;
-//             }
-//             else{
-//                 emptyObj[charLowerCase] = 1;
-//             }
-//         }
-//     });
